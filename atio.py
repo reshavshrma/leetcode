@@ -31,4 +31,4 @@ def myAtoi(self, s):
         if result > INT_MAX:
             return INT_MAX
 
-        return result
+        return result 	
